@@ -1,7 +1,7 @@
 ### Tinder
 + Firebase Authenetication
   - Email Login
-  - Facebook Login
+  - Facebook Login [📌](https://developers.facebook.com/docs/facebook-login/android)
 + Firebase Realtime Database
 + yuyakaido/CardStackView : Swipe Animation
 + Like DB
