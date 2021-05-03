@@ -3,7 +3,7 @@
   - Email Login
   - Facebook Login [📌](https://developers.facebook.com/docs/facebook-login/android)
 + Firebase Realtime Database
-+ yuyakaido/CardStackView : Swipe Animation
++ Swipe Animation
 + Like DB
 
 ### 구현
@@ -12,3 +12,6 @@
 + Github Opensource Library 사용(swipe Animation)
 + Like DB연동
 + Match된 유저목록 보여주기
+
+### opensource
+[CardStackView](https://github.com/yuyakaido/CardStackView) : Swipe Animation을 위해 사용한 라이브러리
