@@ -20,6 +20,9 @@ class MainActivity : AppCompatActivity() {
 
         if(auth.currentUser == null) {
             startActivity(Intent(this, LoginActivity::class.java))
+        } else {
+            startActivity(Intent(this, LikeActivity::class.java))
+            finish() // 내가따로 추가한거
         }
     }
 }
